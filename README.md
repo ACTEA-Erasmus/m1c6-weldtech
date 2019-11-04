@@ -1,4 +1,4 @@
-# MXCX - Base course
+# Welding Technology
 
 Welcome to the ACTEA base course layout. These course is created to bootstrap all the courses in the ACTEA project. 
 
